@@ -18,6 +18,7 @@ This main README serves as a **central overview and navigation page** for the co
 | **04** | **27 Aug 2026** | [📁 `fourth_week`](https://github.com/mohithpandaranki-crypto/Design-and-analysis-of-algorithms-lab-assignments/tree/master/fourth%20week) | Linear Probing, Quadratic Probing, Two Sum, Frequency Counting | 🟢 Completed |
 | **05** | **03 Sep 2026** | [📁 `fifth_week`](https://github.com/mohithpandaranki-crypto/Design-and-analysis-of-algorithms-lab-assignments/tree/master/fifthweek)   | Merge Sort, Quick Sort, Bucket Sort                            | 🟢 Completed |
 
+| **06** | **10 Sep 2026** | [📁 `sixthweek`](https://github.com/mohithpandaranki-crypto/Design-and-analysis-of-algorithms-lab-assignments/tree/master/sixthweek) | Divide and Conquer, Maximum-Minimum, Maximum Subarray, Strassen's Matrix Multiplication, Fractional Knapsack                                                                        | 🟢 Completed |
 ---
 
 ## 🗂️ Repository Structure
@@ -53,11 +54,17 @@ DAA-Lab/
 │   └── frequency.cpp
 │
 └── fifth_week/
+|  ├── README.md
+|   ├── bucket_sort.cpp
+|   ├── merge_sort.cpp
+|    ├── quick_sort.cpp
+|
+└── sixthweek/
     ├── README.md
-    ├── bucket_sort.cpp
-    ├── merge_sort.cpp
-    ├── quick_sort.cpp
-```
+    ├── minmax.cpp
+    ├── maxsubarray.cpp
+    ├── strassen.cpp
+    └── fractionalknapsack.cpp
 
 ---
 
