@@ -17,7 +17,6 @@ This main README serves as a **central overview and navigation page** for the co
 | **03** | **20 Aug 2026** | [📁 `third_week`](https://github.com/mohithpandaranki-crypto/Design-and-analysis-of-algorithms-lab-assignments/tree/master/third%20week)   | Tower of Hanoi, Stack, Queue                                   | 🟢 Completed |
 | **04** | **27 Aug 2026** | [📁 `fourth_week`](https://github.com/mohithpandaranki-crypto/Design-and-analysis-of-algorithms-lab-assignments/tree/master/fourth%20week) | Linear Probing, Quadratic Probing, Two Sum, Frequency Counting | 🟢 Completed |
 | **05** | **03 Sep 2026** | [📁 `fifth_week`](https://github.com/mohithpandaranki-crypto/Design-and-analysis-of-algorithms-lab-assignments/tree/master/fifthweek)   | Merge Sort, Quick Sort, Bucket Sort                            | 🟢 Completed |
-
 | **06** | **10 Sep 2026** | [📁 `sixthweek`](https://github.com/mohithpandaranki-crypto/Design-and-analysis-of-algorithms-lab-assignments/tree/master/sixthweek) | Divide and Conquer, Maximum-Minimum, Maximum Subarray, Strassen's Matrix Multiplication, Fractional Knapsack                                                                        | 🟢 Completed |
 ---
 
